@@ -11,4 +11,3 @@
     link-to-sdk: # optional, default is false
     # Use the local job cache on top of the runner tool cache
     local-cache: # optional, default is false
-bash build.sh
